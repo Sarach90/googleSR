@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motion Studio AI</string>
+    <string name="nav_dashboard">Tableau</string>
+    <string name="nav_projects">Projets</string>
+    <string name="nav_ai_services">Services IA</string>
+    <string name="studio_tagline">Assistant personnel de motion design</string>
+    <string name="error_empty_response">Le modèle Gemini a renvoyé une réponse vide.</string>
+    <string name="error_timeout">La génération a expiré après 60 secondes. Veuillez réessayer.</string>
+</resources>

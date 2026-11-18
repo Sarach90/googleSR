@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio AI",
+  "description": "Assistant personnel intelligent de motion design pour concevoir des vidéos publicitaires du brief au storyboard avec Gemini AI Logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
